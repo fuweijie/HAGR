@@ -1,6 +1,6 @@
 clear
 load('Data_MNIST8M_HAGR.mat') 
-% dataset: https://drive.google.com/drive/folders/0B4iKQNt5JekgbnItaVhEM0JBS2s
+% dataset: https://drive.google.com/file/d/0B4iKQNt5JekgYWxxMFhyQjZoazA/view?usp=sharing
 % Z01 Z12 Z23 are k-sparse inter-layer adjacency matrices in three-layer hirarchical anchor graph.
 % For ANNS-based graph construction, please download the source code
 % at FLANN 'http://www.cs.ubc.ca/research/flann/' and compile the it based on your own PC.
